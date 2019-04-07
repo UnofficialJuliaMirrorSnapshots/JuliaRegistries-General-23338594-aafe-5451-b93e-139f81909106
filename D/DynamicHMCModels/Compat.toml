@@ -1,0 +1,29 @@
+["0.1"]
+MCMCChain = "0.1-0.2"
+
+["0.1-0.3"]
+CSV = "0.0-0.4"
+DataFrames = "0.1-0.17"
+DataStructures = "0.2-0.15"
+Distributions = "0.1-0.17"
+Documenter = "0.1-0.22"
+DynamicHMC = "0.0-1.0"
+ForwardDiff = "0.0-0.10"
+GR = "0.1-0.39"
+JLD = "0.5-0.9"
+Literate = "0.1-1.1"
+LogDensityProblems = "0.2-0.8"
+MCMCDiagnostics = "0.1-0.3"
+Optim = "0.1-0.18"
+Parameters = "0.0-0.10"
+Plots = "0.0-0.24"
+Reexport = "0.0-0.2"
+StatisticalRethinking = "0.1-0.8"
+StatsBase = "0.1-0.29"
+StatsFuns = "0.0-0.8"
+StatsPlots = "0.10"
+TransformVariables = "0.1-0.2"
+julia = "1.0-1.2"
+
+["0.2-0.3"]
+MCMCChains = "0.2-0.3"

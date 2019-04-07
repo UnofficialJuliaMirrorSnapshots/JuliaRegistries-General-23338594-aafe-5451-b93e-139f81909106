@@ -1,0 +1,20 @@
+["0.1"]
+FreeType = "1.0-2.1"
+julia = "0.5-0.7"
+
+["0.1-0.3"]
+ColorVectorSpace = "0.0-0.6"
+
+["0.1-0.4"]
+Colors = "0.4-0.9"
+StaticArrays = "0.0-0.10"
+
+["0.2-0.3"]
+julia = "0.6-0.7"
+
+["0.2-0.4"]
+FreeType = "2.0-2.1"
+
+["0.4"]
+ColorVectorSpace = "0.6"
+julia = "0.7-1.2"

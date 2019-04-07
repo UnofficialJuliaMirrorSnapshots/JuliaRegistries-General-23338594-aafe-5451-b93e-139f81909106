@@ -1,0 +1,106 @@
+["0.1-0.11"]
+StatsBase = "0.1-0.29"
+
+["0.1-0.3"]
+Compat = "0.0-2.1"
+Docile = "0.0-0.5"
+Reexport = "0.0-0.2"
+
+["0.1-0.4"]
+MultivariateStats = "0.0-0.6"
+
+["0.1-0.9"]
+Distributions = "0.1-0.17"
+
+["0.1.0"]
+Clustering = "0.2-0.13"
+Convex = "0.0-0.11"
+SCS = "0.0-0.5"
+
+["0.1.0-0.1.1"]
+FactCheck = "0.0-0.4"
+GLM = "0.2-1.1"
+julia = "0.1-0.7"
+
+["0.1.1"]
+Reactive = "0.1-0.8"
+
+["0.1.2-0.2"]
+julia = "0.3-0.7"
+
+["0.10.0"]
+OnlineStatsBase = "0.0.5"
+
+["0.10.1-0.11.0"]
+OnlineStatsBase = "0.0.6-0.0.7"
+
+["0.11.1"]
+OnlineStatsBase = "0.0.8"
+
+["0.12"]
+OnlineStatsBase = "0.1"
+
+["0.12-0.22"]
+Reexport = "0.0-0.2"
+
+["0.13-0.15"]
+OnlineStatsBase = "0.2-0.5"
+
+["0.16"]
+OnlineStatsBase = "0.6"
+julia = "0.6"
+
+["0.17"]
+OnlineStatsBase = "0.7"
+
+["0.17-0.18"]
+Compat = "0.0-2.1"
+NamedTuples = "0.0-5.0"
+julia = "0.6-0.7"
+
+["0.17.5-0.22"]
+DataStructures = "0.2-0.15"
+LearnBase = "0.0-0.2"
+StatsBase = "0.1-0.29"
+
+["0.18"]
+OnlineStatsBase = "0.8"
+
+["0.19-0.21"]
+OnlineStatsBase = "0.9"
+
+["0.19-0.22"]
+julia = "0.7-1.2"
+
+["0.22"]
+OnlineStatsBase = "0.10"
+
+["0.3-0.6"]
+julia = "0.4-0.7"
+
+["0.4-0.5"]
+Requires = "0.1-0.5"
+
+["0.5"]
+ArrayViews = "0.1-0.7"
+
+["0.6-0.7"]
+RecipesBase = "0.0-0.6"
+
+["0.7"]
+julia = "0.5-0.7"
+
+["0.7.1-0.11"]
+LearnBase = "0.0-0.2"
+
+["0.8-0.15"]
+julia = "0.6-0.7"
+
+["0.9"]
+OnlineStatsBase = "0.0.3-0.0.4"
+
+["0.9-0.22"]
+LossFunctions = "0.0-0.5"
+PenaltyFunctions = "0.0-0.1"
+RecipesBase = "0.0-0.6"
+SweepOperator = "0.0-0.2"

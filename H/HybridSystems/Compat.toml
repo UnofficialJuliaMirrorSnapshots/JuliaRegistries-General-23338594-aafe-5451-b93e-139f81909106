@@ -1,0 +1,13 @@
+["0.0"]
+julia = "0.6-0.7"
+
+["0.0-0.1"]
+FillArrays = "0.0-0.5"
+LightGraphs = "0.1-1.2"
+MathematicalSystems = "0.1-0.6"
+
+["0.1"]
+julia = "0.7-1.2"
+
+["0.1.1-0.1.4"]
+MappedArrays = "0.0-0.2"
