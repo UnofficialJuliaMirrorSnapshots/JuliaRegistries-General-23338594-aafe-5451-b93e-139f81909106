@@ -948,6 +948,7 @@ some amount of consideration when choosing package names.
 59287772-0a20-5a39-b81b-1366585eb4c0 = { name = "Formatting", path = "F/Formatting" }
 593b3428-ca2f-500c-ae53-031589ec8ddd = { name = "CmdStan", path = "C/CmdStan" }
 593ffa3d-269e-5d81-88bc-c3b6809c35a6 = { name = "CurricularAnalytics", path = "C/CurricularAnalytics" }
+59844689-9c9d-51bf-9583-5b794ec66d30 = { name = "ApproxFunFourier", path = "A/ApproxFunFourier" }
 59ceddad-2dad-55ad-af66-072f48a109d0 = { name = "Khepri", path = "K/Khepri" }
 59d4ed8c-697a-5b28-a4c7-fe95c22820f9 = { name = "Snappy", path = "S/Snappy" }
 59ec5594-ae11-5d8d-a868-831a7e904d88 = { name = "NextGenSeqUtils", path = "N/NextGenSeqUtils" }
@@ -1319,6 +1320,7 @@ some amount of consideration when choosing package names.
 7d228ccb-0fc9-53c8-a429-8c9b5b572bc3 = { name = "MotifSequenceGenerator", path = "M/MotifSequenceGenerator" }
 7d512f48-7fb1-5a58-b986-67e6dc259f01 = { name = "InternedStrings", path = "I/InternedStrings" }
 7d6aedc2-de2e-5286-8f3c-6eeb7cf86d4a = { name = "FPTControl", path = "F/FPTControl" }
+7d8a6817-b67b-57e2-acac-4a73d125cd6b = { name = "PETScBinaryIO", path = "P/PETScBinaryIO" }
 7d9fca2a-8960-54d3-9f78-7d1dccf2cb97 = { name = "Arpack", path = "A/Arpack" }
 7dc9378f-8956-57ef-a780-aa31cc70ff3d = { name = "UnitfulUS", path = "U/UnitfulUS" }
 7de783dc-89a7-511c-b223-597fcba0cc71 = { name = "Jags", path = "J/Jags" }
@@ -1371,6 +1373,7 @@ some amount of consideration when choosing package names.
 82193955-e24f-5292-bf16-6f2c5261a85f = { name = "SCIP", path = "S/SCIP" }
 82899510-4779-5014-852e-03e436cf321d = { name = "IteratorInterfaceExtensions", path = "I/IteratorInterfaceExtensions" }
 82bedeac-9837-5b62-883a-b5b3b7c811c5 = { name = "Jute", path = "J/Jute" }
+82cc6244-b520-54b8-b5a6-8a565e85f1d0 = { name = "DataInterpolations", path = "D/DataInterpolations" }
 82daab19-8fc9-5c1e-9f69-37d6aaa0269b = { name = "RigidBodyTreeInspector", path = "R/RigidBodyTreeInspector" }
 8314cec4-20b6-5062-9cdb-752b83310925 = { name = "PGFPlotsX", path = "P/PGFPlotsX" }
 8332e584-40f3-5f5a-9eee-dfdb1ad742fa = { name = "SymmetricBitArrays", path = "S/SymmetricBitArrays" }
@@ -2298,6 +2301,7 @@ dcc97b0b-8ce5-5539-9008-bb190f959ef6 = { name = "GeoStats", path = "G/GeoStats" 
 dcce2d33-59f6-5b8d-9047-0defad88ae06 = { name = "GeometricIntegrators", path = "G/GeometricIntegrators" }
 dcd651b4-b50a-5b6b-8f22-87e9f253a252 = { name = "TestReports", path = "T/TestReports" }
 dcd9ba68-c27b-5cea-ae21-829cd07325bf = { name = "UncertainData", path = "U/UncertainData" }
+dcdf9ed5-39e7-592a-90de-966c054b7718 = { name = "FEMSparse", path = "F/FEMSparse" }
 dce04be8-c92d-5529-be00-80e4d2c0e197 = { name = "ArgCheck", path = "A/ArgCheck" }
 dcf8f9ac-6917-5b56-9f70-7cfaa7b944f9 = { name = "CUSOLVER", path = "C/CUSOLVER" }
 dd2c4c9e-a32f-5b2f-b342-08c2f244fce8 = { name = "NearestNeighborDescent", path = "N/NearestNeighborDescent" }
@@ -2352,6 +2356,7 @@ e210f56a-9500-59e8-ae47-ce3a5fb1a75e = { name = "Docile", path = "D/Docile" }
 e21f4509-7b4e-5b4b-a375-a5512fd6f24f = { name = "Crispulator", path = "C/Crispulator" }
 e220cda7-d851-5a2d-9985-d1627e9abca7 = { name = "FixedSizeArrays", path = "F/FixedSizeArrays" }
 e243d093-f3e7-5ddb-82fd-a47193d1c26f = { name = "UnsafeAtomics", path = "U/UnsafeAtomics" }
+e248de7e-9197-5860-972e-353a2af44d75 = { name = "EffectSizes", path = "E/EffectSizes" }
 e24f45a5-4790-5a38-8b2c-33d770a4e70f = { name = "InverseLaplace", path = "I/InverseLaplace" }
 e2554591-2d5a-5553-bb4c-ff0ef3342964 = { name = "NetworkLearning", path = "N/NetworkLearning" }
 e2554f3b-3117-50c0-817c-e040a3ddf72d = { name = "Clp", path = "C/Clp" }
