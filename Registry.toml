@@ -871,6 +871,7 @@ some amount of consideration when choosing package names.
 4f8fbe5d-35a6-506b-99b3-b5866748635b = { name = "BoltzmannMachines", path = "B/BoltzmannMachines" }
 4fba245c-0d91-5ea0-9b3e-6abc04ee57a9 = { name = "ArrayInterface", path = "A/ArrayInterface" }
 4fe8b98c-fc19-5c23-8ec2-168ff83495f2 = { name = "Mongoc", path = "M/Mongoc" }
+5036cc39-ae6e-5f00-bcd6-dacb213bf05a = { name = "MomentOpt", path = "M/MomentOpt" }
 5049e819-d29b-5fba-b941-0eee7e64c1c6 = { name = "OptimizationProblems", path = "O/OptimizationProblems" }
 505f98c9-085e-5b2c-8e89-488be7bf1f34 = { name = "InplaceOps", path = "I/InplaceOps" }
 5078a376-72f3-5289-bfd5-ec5146d43c02 = { name = "LazyArrays", path = "L/LazyArrays" }
@@ -983,6 +984,7 @@ some amount of consideration when choosing package names.
 59ec5594-ae11-5d8d-a868-831a7e904d88 = { name = "NextGenSeqUtils", path = "N/NextGenSeqUtils" }
 5a033b19-8c74-5913-a970-47c3779ef25c = { name = "CurveFit", path = "C/CurveFit" }
 5a0ffddc-d203-54b0-88ba-2c03c0fc2e67 = { name = "DiffEqFinancial", path = "D/DiffEqFinancial" }
+5a1c9e79-9c58-5ec0-afc4-3298fdea2875 = { name = "CaNNOLeS", path = "C/CaNNOLeS" }
 5a343a44-5b48-11e9-39be-f77f9e6fd977 = { name = "GCP", path = "G/GCP" }
 5a3ac768-beb4-554a-9c98-3342fe3377f5 = { name = "HORIZONS", path = "H/HORIZONS" }
 5a44cd38-3b09-5e84-97ab-e6762b1e8d4e = { name = "GUITestRunner", path = "G/GUITestRunner" }
@@ -2034,6 +2036,7 @@ bbccb21e-8428-5a0b-b2fc-db76a3f27396 = { name = "PyX", path = "P/PyX" }
 bbd82366-0c69-5eef-bed9-5a0dd17fc720 = { name = "JuMPChance", path = "J/JuMPChance" }
 bbf7d656-a473-5ed7-a52c-81e309532950 = { name = "CommonSubexpressions", path = "C/CommonSubexpressions" }
 bbf84614-d4d2-53e7-99af-88c3f7462fb6 = { name = "Church", path = "C/Church" }
+bc11bc94-475e-4eaf-ad55-de9f2e280376 = { name = "SpinnakerGUI", path = "S/SpinnakerGUI" }
 bc367c6b-8a6b-528e-b4bd-a4b897500b49 = { name = "ImageMetadata", path = "I/ImageMetadata" }
 bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26 = { name = "GitHub", path = "G/GitHub" }
 bc6b9049-e460-56d6-94b4-a597b2c0390d = { name = "AbaqusReader", path = "A/AbaqusReader" }
@@ -2126,6 +2129,7 @@ c4a57d5a-5b31-53a6-b365-19f8c011fbd6 = { name = "UnsafeArrays", path = "U/Unsafe
 c4b27c1d-289f-5655-aa69-f096df7d9e2b = { name = "Dubins", path = "D/Dubins" }
 c4c1e6a2-6bdd-52e0-b56d-1d4734724d2d = { name = "CloudWatchLogs", path = "C/CloudWatchLogs" }
 c4c386cf-5103-5370-be45-f3a111cca3b8 = { name = "Rsvg", path = "R/Rsvg" }
+c4c688b2-6cc8-11e9-1c12-6d20b663313d = { name = "jlpkg", path = "J/jlpkg" }
 c4f8c510-2410-5be4-91d7-4fbaeb39457e = { name = "UMAP", path = "U/UMAP" }
 c513aa4d-7626-5656-a882-4604be010eff = { name = "DateParser", path = "D/DateParser" }
 c5292f4c-5179-55e1-98c5-05642aab7184 = { name = "ResumableFunctions", path = "R/ResumableFunctions" }
@@ -2255,6 +2259,7 @@ d06db476-e078-5895-9e0e-615f11c7dd03 = { name = "TermWin", path = "T/TermWin" }
 d0dd6a25-fac6-55c0-abf7-829e0c774d20 = { name = "ONNX", path = "O/ONNX" }
 d0e0cb2e-0bde-5aa9-a60d-c850a24c57ee = { name = "Color", path = "C/Color" }
 d14a8603-c872-5ed3-9ece-53e0e82e39da = { name = "MathematicalSystems", path = "M/MathematicalSystems" }
+d14d998a-9e6b-11e8-16d3-6f2879ea456d = { name = "PredictMDExtra", path = "P/PredictMDExtra" }
 d1acc4aa-44c8-5952-acd4-ba5d80a2a253 = { name = "IntervalArithmetic", path = "I/IntervalArithmetic" }
 d1d4a3ce-64b1-5f1a-9ba4-7e7e69966f35 = { name = "BitFlags", path = "B/BitFlags" }
 d2185075-3040-5c42-a634-a12f38dbd79b = { name = "SloanDigitalSkySurvey", path = "S/SloanDigitalSkySurvey" }
