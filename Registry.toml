@@ -178,6 +178,7 @@ some amount of consideration when choosing package names.
 0fc2ff8b-aaa3-5acd-a817-1944a5e08891 = { name = "LeastSquaresOptim", path = "L/LeastSquaresOptim" }
 0fd90b74-7c1f-579e-9252-02cd883047b9 = { name = "Currencies", path = "C/Currencies" }
 0fe7c1db-08c2-54a3-a222-6d1d3b7a471a = { name = "DataArrays", path = "D/DataArrays" }
+0ff2d225-4740-5ba6-bff6-8e455aafa9c9 = { name = "Bhaskara", path = "B/Bhaskara" }
 100d92e6-c477-5236-9e74-205fcab5fd63 = { name = "LorentzDrudeMetals", path = "L/LorentzDrudeMetals" }
 102930c3-cf33-599f-b3b1-9a29a5acab30 = { name = "SmoothingSplines", path = "S/SmoothingSplines" }
 102ac46a-7ee4-5c85-9060-abc95bfdeaa3 = { name = "MultivariatePolynomials", path = "M/MultivariatePolynomials" }
@@ -558,6 +559,7 @@ some amount of consideration when choosing package names.
 31851ddc-f9b7-5097-a470-69ef907d7682 = { name = "LinearFractional", path = "L/LinearFractional" }
 31a5f54b-26ea-5ae9-a837-f05ce5417438 = { name = "Debugger", path = "D/Debugger" }
 31c24e10-a181-5473-b8eb-7969acd0382f = { name = "Distributions", path = "D/Distributions" }
+31c64edf-cdeb-50e4-845d-ed2334360c20 = { name = "TensorValues", path = "T/TensorValues" }
 31df374a-5bce-54dc-914a-f687be069de8 = { name = "Getopt", path = "G/Getopt" }
 31f4e45d-be81-5be7-b2dd-bc577b4f7be8 = { name = "DualMatrixTools", path = "D/DualMatrixTools" }
 32113eaa-f34f-5b0d-bd6c-c81e245fc73d = { name = "PkgBenchmark", path = "P/PkgBenchmark" }
@@ -670,6 +672,7 @@ some amount of consideration when choosing package names.
 3bf275ae-c56e-51b1-910f-9ec630bf193d = { name = "LinguisticData", path = "L/LinguisticData" }
 3c0b384b-479c-5684-b2ef-9d7a46dd931e = { name = "QuantumInformation", path = "Q/QuantumInformation" }
 3c28c6f8-a34d-59c4-9654-267d177fcfa9 = { name = "BioSymbols", path = "B/BioSymbols" }
+3c28d9fa-eaec-11e8-3371-6131c0bd32f6 = { name = "TheCannon", path = "T/TheCannon" }
 3c64ce36-c3ed-51c2-a7aa-9c9aa94f3624 = { name = "LinearResponseVariationalBayes", path = "L/LinearResponseVariationalBayes" }
 3c7084bd-78ad-589a-b5bb-dbd673274bea = { name = "GLPKMathProgInterface", path = "G/GLPKMathProgInterface" }
 3c71623a-a715-5176-9801-629b201a4880 = { name = "GraphDataFrameBridge", path = "G/GraphDataFrameBridge" }
@@ -1873,6 +1876,7 @@ accb34f3-11fe-547f-b953-62fd05adad84 = { name = "Telegrambot", path = "T/Telegra
 acd30bff-8734-59b1-86d1-c3ef2efb63d6 = { name = "GeostatInversion", path = "G/GeostatInversion" }
 ace275c8-85fe-5afd-ab71-dcc95eab0b15 = { name = "CoreNLP", path = "C/CoreNLP" }
 ace4b8d5-fd3f-5fda-b564-522057a42c15 = { name = "CasaCore", path = "C/CasaCore" }
+ace601d6-714c-11e9-04e5-89b7fad23838 = { name = "AIBECS", path = "A/AIBECS" }
 acefaad2-17a4-5d8b-aa08-e18ef75dd0cf = { name = "BeaData", path = "B/BeaData" }
 ad3d3fd0-b5f2-51ee-b274-8cdbe62317e2 = { name = "SOFA", path = "S/SOFA" }
 ad72c4b6-2990-538c-bd38-e122d63d24d9 = { name = "Kpax3", path = "K/Kpax3" }
@@ -2486,6 +2490,7 @@ e6352adf-4ae3-5eb7-9a68-79830dcd0ac1 = { name = "ASTInterpreter", path = "A/ASTI
 e6386f5f-9a8a-5a5d-a605-d2d61207ca5a = { name = "Maxima", path = "M/Maxima" }
 e655511c-e992-5001-b8e2-2048e6aa15e9 = { name = "DiracNotation", path = "D/DiracNotation" }
 e6723b4c-ebff-59f1-b4b7-d97aa5274f73 = { name = "Meshing", path = "M/Meshing" }
+e690365d-45e2-57bb-ac84-44ba829e73c4 = { name = "PowerSimulations", path = "P/PowerSimulations" }
 e6aeac8e-85c6-520e-8612-effc59bc0f33 = { name = "FastGroupBy", path = "F/FastGroupBy" }
 e6cf234a-135c-5ec9-84dd-332b85af5143 = { name = "RandomNumbers", path = "R/RandomNumbers" }
 e6d88f4b-b52a-544c-a8d3-7a4f12cb39c3 = { name = "ASTInterpreter2", path = "A/ASTInterpreter2" }
@@ -2667,6 +2672,7 @@ f9da4da7-9382-5435-b973-175f5d8dfb32 = { name = "PairwiseListMatrices", path = "
 f9e31aca-17d0-553a-a5f4-335c39cba33a = { name = "ElasticFDA", path = "E/ElasticFDA" }
 f9e53bcf-9449-548a-a5fe-a83e43094f75 = { name = "HurdleDMR", path = "H/HurdleDMR" }
 f9f48841-c794-520a-933b-121f7ba6ed94 = { name = "MemPool", path = "M/MemPool" }
+fa12694a-6dff-11e9-3f23-c5fa6b69506f = { name = "GetGene", path = "G/GetGene" }
 fa42c844-2597-5d31-933b-ebd51ab2693f = { name = "FastRounding", path = "F/FastRounding" }
 fa45d1ab-b616-567a-ad77-664fd15b62b2 = { name = "RequiredKeywords", path = "R/RequiredKeywords" }
 fa51a905-6db9-5d43-b62f-5461347a870a = { name = "BioTools", path = "B/BioTools" }
