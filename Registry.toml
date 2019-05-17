@@ -109,6 +109,7 @@ some amount of consideration when choosing package names.
 0862f596-cf2d-50af-8ef4-f2be67dfa83f = { name = "HTTPClient", path = "H/HTTPClient" }
 0881af41-a624-557c-96ff-9a730c8d7287 = { name = "Web3", path = "W/Web3" }
 08854c51-b66b-5062-a90d-8e7ae4547a49 = { name = "BasisMatrices", path = "B/BasisMatrices" }
+0898d9ac-042b-5d31-8dcc-959fb3365f19 = { name = "QueryableBackend", path = "Q/QueryableBackend" }
 08a2b407-ddc3-586a-afd6-c784ad1fffe2 = { name = "ResultTypes", path = "R/ResultTypes" }
 08abe8d2-0d0c-5749-adfa-8a2ac140af0d = { name = "PrettyTables", path = "P/PrettyTables" }
 08b01624-6c0b-11e9-1b9f-6d80c967c393 = { name = "MemberFunctions", path = "M/MemberFunctions" }
@@ -691,6 +692,7 @@ some amount of consideration when choosing package names.
 3e6341c9-01f6-5312-b33f-f8894a2e817a = { name = "SLEEF", path = "S/SLEEF" }
 3e66a162-7b8c-5da0-b8f8-124ecd2c3ae1 = { name = "CompScienceMeshes", path = "C/CompScienceMeshes" }
 3e78a19a-cc83-51d8-955b-515f39fd7955 = { name = "Bukdu", path = "B/Bukdu" }
+3e7d7328-36f8-4388-bd01-4613c92c7370 = { name = "PredictMD", path = "P/PredictMD" }
 3e82249f-a303-547a-a2b6-0781e594f165 = { name = "Morsel", path = "M/Morsel" }
 3eaba693-59b7-5ba5-a881-562e759f1c8d = { name = "StatsModels", path = "S/StatsModels" }
 3ee6bc94-e39f-5162-bd50-f9adad5d8866 = { name = "SynthesisFilters", path = "S/SynthesisFilters" }
@@ -2556,6 +2558,7 @@ ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4 = { name = "Sobol", path = "S/Sobol" }
 ed09eef8-17a6-5b46-8889-db040fac31e3 = { name = "ComputationalResources", path = "C/ComputationalResources" }
 ed6da631-2423-57d3-8e4b-223f43b45c0c = { name = "Retriever", path = "R/Retriever" }
 ed829526-b29f-578a-94ee-3fdae66fba6d = { name = "RobustLeastSquares", path = "R/RobustLeastSquares" }
+edc76f5a-727d-11e9-15f5-7184c9a7c95d = { name = "Taarruz", path = "T/Taarruz" }
 ee0a3090-8ee9-5cdb-b8cb-8eeba3165522 = { name = "MINLPTests", path = "M/MINLPTests" }
 ee283ea6-eecd-56e3-beb3-83eb4d3c31e9 = { name = "Rebugger", path = "R/Rebugger" }
 ee291a33-5a6c-5552-a3c8-0f29a1181037 = { name = "GBIF", path = "G/GBIF" }
