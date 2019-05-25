@@ -501,6 +501,7 @@ some amount of consideration when choosing package names.
 2c695a8d-9458-5d45-9878-1b8a99cf7853 = { name = "HistogramThresholding", path = "H/HistogramThresholding" }
 2c79eb96-f1c8-5833-9e83-ed2fdcddfc0c = { name = "Push", path = "P/Push" }
 2c80a279-213e-54d7-a557-e9a14725db56 = { name = "Trajectories", path = "T/Trajectories" }
+2c982244-eb47-11e8-1c11-070084c1fd7d = { name = "EdgeCameras", path = "E/EdgeCameras" }
 2cb19f9e-ec4d-5c53-8573-a4542a68d3f0 = { name = "StatsKit", path = "S/StatsKit" }
 2cce017d-b860-5b64-a7c6-b523e7e6e8b4 = { name = "MetaTools", path = "M/MetaTools" }
 2cd5bd5f-40a1-5050-9e10-fc8cdb6109f5 = { name = "ILog2", path = "I/ILog2" }
@@ -649,6 +650,7 @@ some amount of consideration when choosing package names.
 391af1a9-06f1-59d3-8d21-0be089654739 = { name = "Spectra", path = "S/Spectra" }
 39424ebd-4cf3-5550-a685-96706a953f40 = { name = "TreeView", path = "T/TreeView" }
 396aa475-d5af-5b65-8c11-5c82e21b2380 = { name = "MultiResolutionIterators", path = "M/MultiResolutionIterators" }
+39881422-4b75-5582-a5c7-0feb14562a65 = { name = "SetProg", path = "S/SetProg" }
 398f06c4-4d28-53ec-89ca-5b2656b7603d = { name = "AbstractLattices", path = "A/AbstractLattices" }
 39abe10b-433b-5dbd-92d4-e302a9df00cd = { name = "MySQL", path = "M/MySQL" }
 39d38320-a18c-5735-a4f5-135970cd79b8 = { name = "CloudGraphs", path = "C/CloudGraphs" }
@@ -1515,6 +1517,7 @@ some amount of consideration when choosing package names.
 8aa046c6-9529-5101-9c84-44ff67e49b72 = { name = "TropicalSemiring", path = "T/TropicalSemiring" }
 8ac3fa9e-de4c-5943-b1dc-09c6b5f20637 = { name = "LRUCache", path = "L/LRUCache" }
 8acf8dda-514d-5c36-9488-7e3496cf596e = { name = "EMIRT", path = "E/EMIRT" }
+8b6f5f00-d239-11e8-3a24-33314b00f6b0 = { name = "PlotAxes", path = "P/PlotAxes" }
 8b8459f2-c380-502b-8633-9aed2d6c2b35 = { name = "StochasticPrograms", path = "S/StochasticPrograms" }
 8b8db58a-4d47-5b48-8778-177fc09af6f5 = { name = "SemidefiniteModel", path = "S/SemidefiniteModel" }
 8b8fa57b-2f72-5ccd-8d28-750de228707b = { name = "BayesOpt", path = "B/BayesOpt" }
@@ -1910,6 +1913,7 @@ ae9b84b9-e24a-5537-afa9-212627cd7ad6 = { name = "Multirate", path = "M/Multirate
 aea3f91d-3b18-5712-a377-5bd7ed4ed15b = { name = "MolecularBoxes", path = "M/MolecularBoxes" }
 aea672f4-3940-5932-aa44-993d1c3ff149 = { name = "Phylo", path = "P/Phylo" }
 aeb4490e-d914-5f40-aac0-ef8e9431dfb2 = { name = "Napier", path = "N/Napier" }
+af03f0a2-7cbb-11e9-3152-f985fa477d26 = { name = "RandomMatrixDistributions", path = "R/RandomMatrixDistributions" }
 af69fa37-3177-5a40-98ee-561f696e4fcd = { name = "Preconditioners", path = "P/Preconditioners" }
 af6aa194-2a4d-5dd5-88e1-52944c9af9b3 = { name = "AndorSIF", path = "A/AndorSIF" }
 af85af4c-bcd5-5d23-b03a-a909639aa875 = { name = "RowEchelon", path = "R/RowEchelon" }
