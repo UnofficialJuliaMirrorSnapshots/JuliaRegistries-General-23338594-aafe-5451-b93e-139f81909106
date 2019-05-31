@@ -194,6 +194,7 @@ some amount of consideration when choosing package names.
 10e51d30-6ba1-539a-b97e-c69c597142c4 = { name = "ImagePhaseCongruency", path = "I/ImagePhaseCongruency" }
 112f6efa-9a02-5b7d-90c0-432ed331239a = { name = "VegaLite", path = "V/VegaLite" }
 1130ab10-4a5a-5621-a13d-e4788d82bd4c = { name = "DiffEqParamEstim", path = "D/DiffEqParamEstim" }
+11b9c370-7f32-11e9-2601-596d25f02000 = { name = "NormalMaps", path = "N/NormalMaps" }
 11d3f387-6b1b-5124-abbd-847758a5de3c = { name = "PolynomialZeros", path = "P/PolynomialZeros" }
 11f193de-5e89-5f17-923a-7d207d56daf9 = { name = "LMDB", path = "L/LMDB" }
 1222c4b2-2114-5bfd-aeef-88e4692bbb3e = { name = "julia", path = "J/julia" }
@@ -1274,6 +1275,7 @@ some amount of consideration when choosing package names.
 7269a6da-0436-5bbc-96c2-40638cbb6118 = { name = "MeshIO", path = "M/MeshIO" }
 72b4f566-20aa-5d34-a893-970ba56e54ed = { name = "IndexedArrays", path = "I/IndexedArrays" }
 72bd7bb1-b4bd-5012-9e0f-f33a954fca4c = { name = "ExperimentalAnalysis", path = "E/ExperimentalAnalysis" }
+72ce6e51-3f7f-5ebd-8e88-b86aa3e31c30 = { name = "MCMCBenchmarks", path = "M/MCMCBenchmarks" }
 72f80fcb-8c52-57d9-aff0-40c1a3526986 = { name = "VoronoiDelaunay", path = "V/VoronoiDelaunay" }
 731186ca-8d62-57ce-b412-fbd966d074cd = { name = "RecursiveArrayTools", path = "R/RecursiveArrayTools" }
 732a3c5d-d6c0-58bc-adb1-1b51709a25e2 = { name = "EarthOrientation", path = "E/EarthOrientation" }
@@ -2271,6 +2273,7 @@ ce6b1742-4840-55fa-b093-852dadbb1d8b = { name = "RDatasets", path = "R/RDatasets
 cea106d9-e007-5e6c-ad93-58fe2094e9c4 = { name = "Syslogs", path = "S/Syslogs" }
 cea2fc95-2ef8-5908-991d-d86c75f38453 = { name = "Voting", path = "V/Voting" }
 cead932d-4c71-518b-b238-3d6b730c17f5 = { name = "Shannon", path = "S/Shannon" }
+ceb7f16a-07bf-5f4a-9354-b68f01b1610f = { name = "SwitchOnSafety", path = "S/SwitchOnSafety" }
 cec144fc-5a64-5bc6-99fb-dde8f63e154c = { name = "OptimTestProblems", path = "O/OptimTestProblems" }
 cecf6091-0e4e-54ba-8cba-f0e96a51f282 = { name = "MicroLogging", path = "M/MicroLogging" }
 cee8b4bc-0221-51ea-99fd-cd13b9c49dcc = { name = "SparseMatrixLILs", path = "S/SparseMatrixLILs" }
@@ -2354,6 +2357,7 @@ d720cf60-89b5-51f5-aff5-213f193123e7 = { name = "Polymake", path = "P/Polymake" 
 d76558cf-badf-52d4-a17e-381ab0b0d937 = { name = "FCSFiles", path = "F/FCSFiles" }
 d78a06e8-ae74-583c-9a07-0d6572347000 = { name = "SimpleDrawing", path = "S/SimpleDrawing" }
 d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2 = { name = "Git", path = "G/Git" }
+d8047ffa-7f43-11e9-2204-adfbb6974ec5 = { name = "Dyn3d", path = "D/Dyn3d" }
 d80f1e47-7c1f-50ef-848d-735630893f00 = { name = "vOptGeneric", path = "V/vOptGeneric" }
 d8164373-46bb-572c-9bed-61caa11c4d4e = { name = "MultidimensionalTables", path = "M/MultidimensionalTables" }
 d826f7e1-9945-5890-a92a-4078320af7ac = { name = "Transit", path = "T/Transit" }
@@ -2430,6 +2434,7 @@ de31a74c-ac4f-5751-b3fd-e18cd04993ca = { name = "FunctionalCollections", path = 
 de320387-30cd-5f83-91a8-a6e0ae8b8444 = { name = "PyCallJLD", path = "P/PyCallJLD" }
 de436766-0b2a-5f82-bc5b-1ccc5f599b83 = { name = "C3D", path = "C/C3D" }
 de460e47-3fe3-5279-bb4a-814414816d5d = { name = "DiffTests", path = "D/DiffTests" }
+de68a502-6b26-11e9-2c24-19af4cbda7e6 = { name = "SalesForceBulkApi", path = "S/SalesForceBulkApi" }
 de6e09b3-4b42-5a74-8fbc-3cb2aad257dc = { name = "Benchmark", path = "B/Benchmark" }
 de9282ab-8554-53be-b2d6-f6c222edabfc = { name = "BioStructures", path = "B/BioStructures" }
 dec300e5-7e5b-577b-bc13-c7c11ad250bc = { name = "OnlinePackage", path = "O/OnlinePackage" }
