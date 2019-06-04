@@ -176,6 +176,7 @@ some amount of consideration when choosing package names.
 0f34fb1e-4541-5b4c-aef0-c26dfe4a41db = { name = "CoverageBase", path = "C/CoverageBase" }
 0f51c51e-adfa-5141-8a04-d40246b8977c = { name = "PiecewiseLinearOpt", path = "P/PiecewiseLinearOpt" }
 0f5c7595-fa0c-55c8-9031-265ea63f34cf = { name = "BDF", path = "B/BDF" }
+0fc0a36d-df90-57f3-8f93-d78a9fc72bb5 = { name = "Manopt", path = "M/Manopt" }
 0fc2ff8b-aaa3-5acd-a817-1944a5e08891 = { name = "LeastSquaresOptim", path = "L/LeastSquaresOptim" }
 0fd90b74-7c1f-579e-9252-02cd883047b9 = { name = "Currencies", path = "C/Currencies" }
 0fe7c1db-08c2-54a3-a222-6d1d3b7a471a = { name = "DataArrays", path = "D/DataArrays" }
@@ -374,6 +375,7 @@ some amount of consideration when choosing package names.
 2030c09a-7f63-5d83-885d-db604e0e9cc0 = { name = "InfrastructureModels", path = "I/InfrastructureModels" }
 203fad6b-76d5-5f68-8b2e-e85904e86574 = { name = "FusionDirect", path = "F/FusionDirect" }
 2091bfbe-2937-51d6-a893-7459a14235e5 = { name = "DiscriminantAnalysis", path = "D/DiscriminantAnalysis" }
+2098c8a6-82c4-11e9-1f54-e72760d085ce = { name = "LibSymspg", path = "L/LibSymspg" }
 209c9289-0e93-5bc3-a9c6-3b517a31ee3c = { name = "TimeSeriesResampler", path = "T/TimeSeriesResampler" }
 20febd7b-183b-5ae2-ac4a-720e7ce64774 = { name = "Retry", path = "R/Retry" }
 2152367d-059c-52e9-ae52-2d26002cb4a3 = { name = "CUDAnativelib", path = "C/CUDAnativelib" }
@@ -2101,6 +2103,7 @@ be6f12e9-ca4f-5eb2-a339-a4f995cc0291 = { name = "ODBC", path = "O/ODBC" }
 be8ae513-ad44-5dbc-aa0f-d9cd1b2c73a9 = { name = "NHST", path = "N/NHST" }
 be8e8821-3f6f-54c2-987c-d2773c3a52cb = { name = "FEMQuad", path = "F/FEMQuad" }
 be9095b9-23e7-5432-9b9d-79c672ee5ffb = { name = "Typeclass", path = "T/Typeclass" }
+bec4dd0d-7755-52d5-9a02-22f0ffc7efcb = { name = "NLPModelsKnitro", path = "N/NLPModelsKnitro" }
 becb17da-46f6-5d3c-ad1b-1c5fe96bc73c = { name = "Feather", path = "F/Feather" }
 bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
 bedefb8d-ef00-5401-aa81-ae9c3f6f84cc = { name = "QuantumInfo", path = "Q/QuantumInfo" }
@@ -2590,6 +2593,7 @@ ecf26e93-935c-5e64-9b21-bc8ac81b4723 = { name = "ClassicalCiphers", path = "C/Cl
 ecf29a63-ede7-5edc-9377-e4ca4ad0389f = { name = "Qwt", path = "Q/Qwt" }
 ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4 = { name = "Sobol", path = "S/Sobol" }
 ed09eef8-17a6-5b46-8889-db040fac31e3 = { name = "ComputationalResources", path = "C/ComputationalResources" }
+ed3f9b50-51cd-11e9-3ece-75fc8af922bb = { name = "Kwant", path = "K/Kwant" }
 ed6da631-2423-57d3-8e4b-223f43b45c0c = { name = "Retriever", path = "R/Retriever" }
 ed829526-b29f-578a-94ee-3fdae66fba6d = { name = "RobustLeastSquares", path = "R/RobustLeastSquares" }
 edc76f5a-727d-11e9-15f5-7184c9a7c95d = { name = "Taarruz", path = "T/Taarruz" }
